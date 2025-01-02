@@ -13,6 +13,10 @@
 ---
 
 ## **🔬 Analysis Workflow**
+
+![AML Algo Diagram](https://github.com/user-attachments/assets/82886a0c-cf5f-4d54-9b63-3e980d1c27a1)
+
+
 1. **Data Collection**:
    - Use the YouTube API to collect metadata.
    - Scrape video transcripts and segment audio for tonal analysis.
